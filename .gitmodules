@@ -1,0 +1,6 @@
+[submodule "submodule/libusb/libusb"]
+	path = submodule/libusb/libusb
+	url = https://github.com/libusb/libusb
+[submodule "submodule/libuvc/libuvc"]
+	path = submodule/libuvc/libuvc
+	url = https://github.com/ktossell/libuvc
